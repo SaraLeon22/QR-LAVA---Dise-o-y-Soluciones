@@ -1,0 +1,39 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 97vh;
+    background: linear-gradient(to bottom, #143743, #9c9e4a);
+    flex-direction: column;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#Instagram {
+    height: 300px;
+    width: 300px;
+    font-family: 'Courier New', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 10px solid #fff;
+}
+
+#TikTok {
+    height: 300px;
+    width: 300px;
+    font-family: 'Courier New', sans-serif;
+    font-size: 20px;
+    color: #fff;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    border: 10px solid #fff;
+}
