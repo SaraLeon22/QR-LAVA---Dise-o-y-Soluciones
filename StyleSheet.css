@@ -32,7 +32,6 @@ body {
     gap: 30px;
 }
 
-#Bienvenida,
 #wifi {
     display: flex;
     flex-direction: column;
