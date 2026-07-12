@@ -41,6 +41,13 @@ body {
     gap: 16px;
 }
 
+#Bienvenida img {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    border-radius: 50%;
+}
+
 .red-social {
     display: inline-block;
     transition: transform .3s;
