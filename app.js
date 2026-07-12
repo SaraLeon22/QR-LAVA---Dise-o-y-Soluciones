@@ -27,7 +27,7 @@ function comprobarAcceso() {
 
     const tiempo = (Date.now() - salida) / 1000;
 
-    if (tiempo < 15) return;
+    if (tiempo < 1) return;
 
     mostrarAccesoWifi();
     localStorage.removeItem("horaSalida");
