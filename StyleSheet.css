@@ -41,7 +41,7 @@ body {
     gap: 16px;
 }
 
-#Bienvenida img {
+#Logo {
     width: 200px;
     height: 200px;
     object-fit: contain;
@@ -78,3 +78,4 @@ body {
     font-size: 0.9rem;
     opacity: 0.85;
 }
+
